@@ -10,7 +10,7 @@ struct passenger
 	char name[15];
 	int seat_num;
 	char contact_num[15];
-	char aadhar_num[15];                 //temp=dummy end=stream
+	char aadhar_num[15];                
 	struct passenger *following;
 }
 *begin, *end;
