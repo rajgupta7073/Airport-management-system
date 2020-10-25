@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603610846 source:d:\codes\aeroplanemanagementsystem\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
